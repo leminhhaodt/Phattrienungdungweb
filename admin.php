@@ -1,4 +1,5 @@
 <?php
+//https://iuhedu-my.sharepoint.com/personal/18050011_hao_student_iuh_edu_vn/_layouts/15/guestaccess.aspx?share=ESQtWcIBLcVEueR6xOguMc4BbElMTxNrIE2HCz5ALNH1Gw&e=bvfGNv
 session_start();
 if(isset($_SESSION['user']) && isset($_SESSION['pass']))
 {
